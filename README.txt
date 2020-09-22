@@ -1,0 +1,4 @@
+IMPORTANT: YOU NEED ICON HUNTER TO VIEW THESE ICON GALLERIES.
+KINDLY DOWNLOAD IT FIRST FROM PLANET-SOURCE-CODE.COM.
+
+Tons of Icons. This zip file contains a number of IGFs(Icon Gallery Files) under various categories, for using with my Icon Hunter. Do the following steps for using these icon galleries. 1] Download my Icon Hunter application from this site (make a search for Icon Hunter to see it). 2] Extract all icon gallery files in this zip to a specific location. (eg: c:\my documents\icons) 3]Start Icon Hunter, type '*.*' in the 'Find In' box, and set the start up folder to the name of the folder you extracted the gallery files (eg: c:\my documents\icons). 4]Click the start button of Icon Hunter.
